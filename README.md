@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-![Snake Animation](https://github.com/LafaDev)
--->
+![github contribution grid snake animation](https://github.com/LafaDev/Lafadev/output/github-contribution-grid-snake.svg)
+
