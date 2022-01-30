@@ -1,7 +1,7 @@
 <!-- ![headerFINAL](https://user-images.githubusercontent.com/90883406/151683816-6c1acd79-8761-47ec-89e2-bec1a3c3be25.gif#gh-dark-mode-only) -->
-<div align="center">
-<img align="center" width="900" height="125" src="https://user-images.githubusercontent.com/90883406/151683816-6c1acd79-8761-47ec-89e2-bec1a3c3be25.gif#gh-dark-mode-only">
- </div>
+<!-- <div align="center"> -->
+<!-- <img align="center" width="900" height="125" src="https://user-images.githubusercontent.com/90883406/151683816-6c1acd79-8761-47ec-89e2-bec1a3c3be25.gif#gh-dark-mode-only"> -->
+<!--  </div> -->
 <!--
  <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
 -->
