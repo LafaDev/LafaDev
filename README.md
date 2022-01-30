@@ -29,16 +29,18 @@
   
 
 <p align="center">
-<a href="https://github.com/LafaDev">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=LafaDev&count_private=true&show_icons=true&theme=radical#gh-dark-mode-only" />
- 
- <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=LafaDev&count_private=true&show_icons=true&theme=default#gh-light-mode-only"/>
+<a href="https://github.com/LafaDev#gh-dark-mode-only">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=LafaDev&count_private=true&show_icons=true&theme=radical" />
+ </a>
+<a href="https//github.com/LafaDev#gh-dark-mode-only">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
  
- 
-<a href="https//github.com/LafaDev">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=radical&show_icons=true&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats" />
- <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=default&show_icons=true&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats" />
+ <a href="https://github.com/LafaDev#gh-light-mode-only">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=LafaDev&count_private=true&show_icons=true&theme=default" />
+ </a>
+<a href="https//github.com/LafaDev#gh-light-mode-only">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=default&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   </p>
 
