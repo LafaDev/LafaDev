@@ -1,14 +1,12 @@
 <div align="center">
 
  <a href="https://github.com/LafaDev#gh-dark-mode-only">
-<img align="center" width="716" height="90" src="https://user-images.githubusercontent.com/90883406/151700072-62cd5602-84b5-4168-a553-6f7fb8d2d433.gif">
+<img align="center" width="716" height="90" src="https://user-images.githubusercontent.com/90883406/151700185-14a74ec2-8cbb-4076-8bf7-2d1beb584675.gif">
   </a>
  <a href="https://github.com/LafaDev#gh-light-mode-only">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hello,+World!;Im+Lafa+(Lucas+Flores);Software+student+at+Trybe;Full-Stack+Developer" alt="">
 </a>
  </div>
-
-
 
  <h1 align="center">Hi there, I'm Lucas!</h1>
  <p align="center"> 
