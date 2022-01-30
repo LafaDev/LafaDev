@@ -6,7 +6,10 @@
  <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
 -->
 
-![header](https://user-images.githubusercontent.com/90883406/151684961-ad774dc7-a629-4a85-933e-711ae45ddd1b.gif)
+<!-- ![header](https://user-images.githubusercontent.com/90883406/151684961-ad774dc7-a629-4a85-933e-711ae45ddd1b.gif) -->
+<div align="center">
+<img align="center" width="590" height="87" src="https://user-images.githubusercontent.com/90883406/151684961-ad774dc7-a629-4a85-933e-711ae45ddd1b.gif#gh-dark-mode-only">
+ </div>
 
 
 
