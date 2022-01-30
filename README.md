@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hello,+World!;Im+Lafa+(Lucas+Flores);Software+student+at+Trybe;Full-Stack+Developer" alt="">
 </a>
  </div>
- <h1 align="center">Hi there, I'm Lucas!</h1>
+ <h1 align="center">Welcome</h1>
  <p align="center"> 
  <strong>Connect with me: </strong> </p>
 </p>
