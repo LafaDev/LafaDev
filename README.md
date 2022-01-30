@@ -1,8 +1,8 @@
+![headerFINAL](https://user-images.githubusercontent.com/90883406/151683816-6c1acd79-8761-47ec-89e2-bec1a3c3be25.gif#gh-dark-mode-only)
 <p align="center">
 <!--
  <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
 -->
- ![headerFINAL](https://user-images.githubusercontent.com/90883406/151683816-6c1acd79-8761-47ec-89e2-bec1a3c3be25.gif)
  <h1 align="center">Hi there, I'm Lucas!</h1>
  <p align="center"> <strong>Connect with me: </strong> </p>
 </p>
