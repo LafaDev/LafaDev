@@ -12,7 +12,7 @@
 <div align="center">
 
  <a href="https://github.com/LafaDev#gh-dark-mode-only">
-<img align="center" width="590" height="87" src="https://user-images.githubusercontent.com/90883406/151684961-ad774dc7-a629-4a85-933e-711ae45ddd1b.gif">
+<img align="center" width="716" height="90" src="https://user-images.githubusercontent.com/90883406/151699532-5da830af-eed0-40c9-a5d0-0701d87129d4.gif">
   </a>
  
  <a href="https://github.com/LafaDev#gh-light-mode-only">
