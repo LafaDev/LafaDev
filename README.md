@@ -36,6 +36,14 @@
     <br />
   </p>
   
+ <p align="center">
+  <a href="https://www.github.com/LafaDev#gh-light-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=lafadev" />
+  </a>
+  <a href="https://www.github.com/LafaDev#gh-dark-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=lafadev&theme=radical" />
+  </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/LafaDev#gh-dark-mode-only">
