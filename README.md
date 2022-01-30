@@ -1,18 +1,7 @@
-<!-- ![headerFINAL](https://user-images.githubusercontent.com/90883406/151683816-6c1acd79-8761-47ec-89e2-bec1a3c3be25.gif#gh-dark-mode-only) -->
-<!-- <div align="center"> -->
-<!-- <img align="center" width="900" height="125" src="https://user-images.githubusercontent.com/90883406/151683816-6c1acd79-8761-47ec-89e2-bec1a3c3be25.gif#gh-dark-mode-only"> -->
-<!--  </div> -->
-<!--
- <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
--->
-
-<!-- ![header](https://user-images.githubusercontent.com/90883406/151684961-ad774dc7-a629-4a85-933e-711ae45ddd1b.gif) -->
-
-
 <div align="center">
 
  <a href="https://github.com/LafaDev#gh-dark-mode-only">
-<img align="center" width="716" height="90" src="https://user-images.githubusercontent.com/90883406/151699532-5da830af-eed0-40c9-a5d0-0701d87129d4.gif">
+<img align="center" width="716" height="90" src="https://user-images.githubusercontent.com/90883406/151699914-01cb0768-6b85-427f-b0b8-0ff52a40adb1.gif">
   </a>
  
  <a href="https://github.com/LafaDev#gh-light-mode-only">
