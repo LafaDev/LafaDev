@@ -5,6 +5,11 @@
 <!--
  <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
 -->
+
+![header](https://user-images.githubusercontent.com/90883406/151684961-ad774dc7-a629-4a85-933e-711ae45ddd1b.gif)
+
+
+
  <h1 align="center">Hi there, I'm Lucas!</h1>
  <p align="center"> 
  <strong>Connect with me: </strong> </p>
