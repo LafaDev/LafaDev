@@ -10,7 +10,11 @@
 
 
 <div align="center">
+
+ <a href="https://github.com/LafaDev">
 <img align="center" width="590" height="87" src="https://user-images.githubusercontent.com/90883406/151684961-ad774dc7-a629-4a85-933e-711ae45ddd1b.gif#gh-dark-mode-only">
+  </a>
+ 
  <a href="https://git.io/typing-svg#gh-light-mode-only">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hello,+World!;Im+Lafa+(Lucas+Flores);Software+student+at+Trybe;Full-Stack+Developer" alt="">
 </a>
