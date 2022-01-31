@@ -27,7 +27,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/> 
  </p>
- 
 <h3> 
  𝓞𝓢 / 𝓓𝓲𝓼𝓽𝓻𝓸𝓼 
  <h3>
@@ -56,7 +55,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" />
  <img src="https://www.svgrepo.com/show/349580/zoom.svg" width="50" /> 
  <img src="https://www.svgrepo.com/show/354463/trello.svg" width="50" /> 
- <img src="https://www.svgrepo.com/show/306484/notion.svg" width="50" /> 
+ <img src="https://user-images.githubusercontent.com/90883406/151882923-c0b21263-3359-4aab-a6fa-052cbeabb0fe.png" width="50" /> 
  <img src="https://www.svgrepo.com/show/349357/evernote.svg" width="50" /> 
 </p>
   
