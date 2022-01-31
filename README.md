@@ -1,11 +1,24 @@
 <div align="center">
  <a href="https://github.com/LafaDev#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FE428E&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores;%2FLafaDev;Software+Student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FE428E&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores;I'm+%2FLafaDev;Software+Student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
   </a>
  <a href="https://github.com/LafaDev#gh-light-mode-only">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237AA2F7&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores;%2FLafaDev;Software+Student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237AA2F7&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores;I'm%2FLafaDev;Software+Student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
 </a>
  </div>
+ 
+  <p align="center"> 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: </p>
+</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/lafa/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:lafa.dev@protonmail.com">
+      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+     </a>
+    <br />
+    <br />
+  </p>
  
  <h1 align="center">
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
@@ -61,18 +74,7 @@
 
   
 <br>
- <p align="center"> 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: </p>
-</p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/lafa/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:lafa.dev@protonmail.com">
-      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-     </a>
-    <br />
-    <br />
-  </p>
+
 
  <p align="center">
   <a href="https://www.github.com/LafaDev#gh-light-mode-only">
