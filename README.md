@@ -16,10 +16,11 @@
     </a>
     <a href="mailto:lafa.dev@protonmail.com">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+     </a>
     <br />
     <br />
   </p>
-  
+
  <p align="center">
   <a href="https://www.github.com/LafaDev#gh-light-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=lafadev" />
@@ -44,6 +45,36 @@
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=default&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   </p>
+
+```console
+lafadev@github:~$ neofetch
+
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 lafadev@github
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Kernel: 17.1-TRYBE
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Uptime: 6 months
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Packages: JavaScript, React and others...
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Shell: Bash
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Editors: VSCode, Vim, NeoVim
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Theme: tokyo_night, radical
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   LinkedIn: /in/lafa
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: /LafaDev
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Mail: lafa.dev@protonmail.com
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
+              "Lf8@@@@v              q@@@#Qa?:                
+                  -!v|`              _?v!`                     
+```
 
 <!--
 **LafaDev/LafaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
