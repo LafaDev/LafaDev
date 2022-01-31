@@ -12,7 +12,7 @@
  𝔞𝔟𝔬𝔲𝔱 𝔪𝔢:
 </h1>
 
-<img src="https://user-images.githubusercontent.com/90883406/151866489-5fca195b-c8bd-4e65-affc-d646a77768fe.gif" width="325" align="right" />
+<img src="https://user-images.githubusercontent.com/90883406/151866489-5fca195b-c8bd-4e65-affc-d646a77768fe.gif" width="300" align="right" />
 <h3>
    <img src="https://raw.githubusercontent.com/EliverLara/candy-icons/master/apps/scalable/kitty.svg" width="40"/>
   𝓶𝔂 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓯𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼 </h3>
