@@ -3,10 +3,36 @@
 <img align="center" width="600" height="75" src="https://user-images.githubusercontent.com/90883406/151700742-9838cdd0-a3b5-4186-9afc-d3479a52dfc4.gif">
   </a>
  <a href="https://github.com/LafaDev#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hello,+World!;Im+Lucas+Flores;/LafaDev;Software+student+at+Trybe;Full-Stack+Developer" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hello,+World!;Im+Lucas+Flores;/LafaDev;Software+student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
 </a>
  </div>
- <h1 align="center">Welcome</h1>
+ <h1 align="center">
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
+ 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢:
+</h1>
+<div>
+<div align="center">
+  <h3>
+   <img src="https://raw.githubusercontent.com/EliverLara/candy-icons/master/apps/scalable/kitty.svg" width="40"/>
+   𝓂𝓎 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒻𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈</h3>
+  </h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50"/>
+  </p>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
+   </p>
+   <p align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>
+   </p>
+ </div>
+ <img align="right" src="ttps://user-images.githubusercontent.com/90883406/151865956-d23dabb8-7b55-46c7-9e66-c009e4f2b124.gif" width="200"/>
+ </div>
+
  <p align="center"> 
  <strong>Connect with me: </strong> </p>
 </p>
@@ -58,7 +84,7 @@ lafadev@github:~$ neofetch
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Packages: JavaScript, React and others...
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Shell: Bash
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Editors: VSCode, Vim, NeoVim
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Theme: tokyo_night, radical
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Theme: default, radical
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
