@@ -7,6 +7,7 @@
 </a>
  </div>
  
+ <br>
   <p align="center"> 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: </p>
 </p>
   <p align="center">
@@ -16,7 +17,6 @@
     <a href="mailto:lafa.dev@protonmail.com">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
      </a>
-    <br />
     <br />
   </p>
  
