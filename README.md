@@ -1,9 +1,9 @@
 <div align="center">
  <a href="https://github.com/LafaDev#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FE428E&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores;I'm+%2FLafaDev;Software+Student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FE428E&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores;%2FLafaDev;Software+student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
   </a>
  <a href="https://github.com/LafaDev#gh-light-mode-only">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237AA2F7&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores;I'm+%2FLafaDev;Software+Student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237AA2F7&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores+(%2FLafaDev);Software+student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
 </a>
  </div>
  
