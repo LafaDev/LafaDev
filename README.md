@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" />
-  <img src="https://www.svgrepo.com/show/306090/gentoo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="50" />
@@ -51,14 +51,14 @@
  <img src="https://www.svgrepo.com/show/378765/vivaldi.svg" width="50" /> 
  <img src="https://www.svgrepo.com/show/378844/qutebrowser.svg" width="50" /> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Icecat1-300x300.svg" width="50" /> 
- <img src="https://www.svgrepo.com/show/360343/discord.svg" width="50" /> 
+ <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="50" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" />
  <img src="https://www.svgrepo.com/show/349580/zoom.svg" width="50" /> 
  <img src="https://www.svgrepo.com/show/354463/trello.svg" width="50" /> 
  <img src="https://user-images.githubusercontent.com/90883406/151882923-c0b21263-3359-4aab-a6fa-052cbeabb0fe.png" width="50" /> 
  <img src="https://www.svgrepo.com/show/349357/evernote.svg" width="50" /> 
 </p>
-  
+
   
 <br>
  <p align="center"> 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: </p>
