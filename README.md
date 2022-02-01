@@ -60,6 +60,9 @@
 <p>
  <img src="https://www.svgrepo.com/show/373623/git.svg" width="50" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Anki-icon.svg" width="50" />
  <img src="https://www.svgrepo.com/show/378765/vivaldi.svg" width="50" /> 
  <img src="https://www.svgrepo.com/show/378844/qutebrowser.svg" width="50" /> 
