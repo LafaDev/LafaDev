@@ -41,7 +41,6 @@
  </p>
  
  <h3>
- <img src"https://www.pinclipart.com/picdir/middle/22-220649_clipart-royalty-free-library-books-svg-icon-icons.png" width="50" />
  𝒻𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒶𝓃𝒹 𝓁𝒾𝒷𝓇𝒶𝓇𝒾𝑒𝓈 </h3>
  <p>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
