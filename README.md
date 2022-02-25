@@ -157,7 +157,7 @@ lafadev@github:~$ neofetch
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.            OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`          Kernel: 17.1-TRYBE
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`        Uptime: 6 months
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.       Packages: JavaScript, React and others...
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.       Terminal: Kitty
   ?@@@@@@@@@@q                                z@@@@@@@@@#?      Shell: Bash
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"     Editors: VSCode, Vim, NeoVim
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0     Theme: default, radical
