@@ -153,6 +153,8 @@
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=default&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   </p>
+  
+![github contribution grid snake animation](https://github.com/LafaDev/LafaDev/blob/output/github-contribution-grid-snake.svg)
 
 ```console
 lafadev@github:~$ neofetch
@@ -198,6 +200,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![github contribution grid snake animation](https://github.com/LafaDev/LafaDev/blob/output/github-contribution-grid-snake.svg)
