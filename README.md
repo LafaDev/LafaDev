@@ -11,7 +11,7 @@
   <p align="center"> 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: </p>
 </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/lafa/">
+    <a href="https://www.linkedin.com/in/LafaDev/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:lafa.dev@protonmail.com">
@@ -171,7 +171,7 @@ lafadev@github:~$ neofetch
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0   
 a@@@@@@@@@@2                                    v@@@@@@@@@@;  contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y  -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%  LinkedIn: /in/lafa
+@@@@@@@@@@@.                                     @@@@@@@@@@%  LinkedIn: /in/LafaDev
 #@@@@@@@@@@r                                    :@@@@@@@@@@s  Github: /LafaDev
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*  Mail: lafa.dev@protonmail.com
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#   
