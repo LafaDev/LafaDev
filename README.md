@@ -8,7 +8,7 @@
  </div>
  
  <br>
-  <p align="center"> 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: </p>
+  <p align="center"> 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:  </p>
 </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/LafaDev/">
