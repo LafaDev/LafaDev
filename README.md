@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/90883406/151866489-5fca195b-c8bd-4e65-affc-d646a77768fe.gif" width="250" align="right" />
 <h3>
    <img src="https://raw.githubusercontent.com/EliverLara/candy-icons/master/apps/scalable/kitty.svg" width="40"/>
-  &nbsp; 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈
+  &nbsp; 𝖑𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘
  </h3>
 </h3>
 <p> 
@@ -40,8 +40,7 @@
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
  </p>
  
- <h3>
- 𝒻𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒶𝓃𝒹 𝓁𝒾𝒷𝓇𝒶𝓇𝒾𝑒𝓈 </h3>
+ <h3> 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐤𝐫𝐬 </h3>
  <p>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
