@@ -56,7 +56,7 @@ I love reading, gaming and i'm always learning new things.
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
  </p>
  
- <h3> 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 </h3>
+ <h3> 📚 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 </h3>
  <p>
  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -105,6 +105,7 @@ I love reading, gaming and i'm always learning new things.
  
  
 <h3> 
+ 🐧
 𝐋𝐢𝐧𝐮𝐱 𝐃𝐢𝐬𝐭𝐫𝐨𝐬
  
  <h3>
