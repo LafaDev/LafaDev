@@ -1,9 +1,9 @@
 <div align="center">
  <a href="https://github.com/LafaDev#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FE428E&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores+(%2FLafaDev);Software+student+at+Trybe;Full-Stack+Developer;open-source+passionate" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FE428E&size=30&center=true&vCenter=true&width=450&lines=Olá%2C+mundo!;Meu+nome+é+Lucas+Flores+(%2FLafaDev);Estudante++na+Trybe;Desenvolvedor+Full-Stack;" alt="">
   </a>
  <a href="https://github.com/LafaDev#gh-light-mode-only">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237AA2F7&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+World!;I'm+Lucas+Flores+(%2FLafaDev);Software+student+at+Trybe;Aspiring+Full-Stack+Developer;open-source+passionate" alt="">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237AA2F7&size=30&center=true&vCenter=true&width=450&lines=Olá%2C+mundo!;Eu+sou+é+Lucas+Flores+(%2FLafaDev);Estudante-de-desenvolvimento+web+na+Trybe;Desenvolvedor+Web+Full-Stack;" alt="">
 </a>
  </div>
  
@@ -27,20 +27,21 @@
  
  <h1 align="center">
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
- 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢:
+ Sobre mim:
 </h1>
 
 <p>
-:wave: Welcome to my profile! <br>
-My name is Lucas, Full-Stack developer from :brazil: Brazil. <br>
-I love reading, gaming and i'm always learning new things.
-<br> <br> i use arch btw
+:wave: Bem vindo! <br>
+ Meu nome é Lucas, atualmente estudo na Trybe,
+ onde obtive a experiência de trabalhar <br> com diversas pessoas em variados projetos e desenvolvi diferentes habilidades.
+ <br> Estou sempre aprendendo coisas novas.
+ <br>Entusiasta de computação, Linux e projetos open-source.
 <p/>
 <hr>
 <img src="https://user-images.githubusercontent.com/90883406/151866489-5fca195b-c8bd-4e65-affc-d646a77768fe.gif" width="250" align="right" />
 <h3>
    <img src="https://raw.githubusercontent.com/EliverLara/candy-icons/master/apps/scalable/kitty.svg" width="40"/>
-  &nbsp; 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
+  &nbsp; Linguagens:
  </h3>
 </h3>
 <p> 
