@@ -34,7 +34,7 @@
 :wave: Welcome to my profile! <br>
 My name is Lucas, Full-Stack developer from :brazil: Brazil. <br>
 I love reading, gaming and i'm always learning new things.
-<br> i use arch btw
+<br> <br> i use arch btw
 <p/>
 <hr>
 <img src="https://user-images.githubusercontent.com/90883406/151866489-5fca195b-c8bd-4e65-affc-d646a77768fe.gif" width="250" align="right" />
