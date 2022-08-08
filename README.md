@@ -144,17 +144,17 @@ I love reading, gaming and i'm always learning new things.
 
 <p align="center">
 <a href="https://github.com/LafaDev#gh-dark-mode-only">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=LafaDev&count_private=true&show_icons=true&theme=radical" />
+  <img height="200em" align="center" src="https://github-readme-stats-woad-nine.vercel.app/api?username=LafaDev&count_private=true&show_icons=true&theme=radical" />
  </a>
 <a href="https//github.com/LafaDev#gh-dark-mode-only">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="200em" align="center" src="https://github-readme-stats-woad-nine.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
  
  <a href="https://github.com/LafaDev#gh-light-mode-only">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=LafaDev&count_private=true&show_icons=true&theme=default" />
+  <img height="200em" align="center" src="https://github-readme-stats-woad-nine.vercel.app/api?username=LafaDev&count_private=true&show_icons=true&theme=default" />
  </a>
 <a href="https//github.com/LafaDev#gh-light-mode-only">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=default&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="200em" align="center" src="https://github-readme-stats-woad-nine.vercel.app/api/top-langs/?username=LafaDev&count_private=true&theme=default&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   </p>
   
