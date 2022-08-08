@@ -8,7 +8,7 @@
  </div>
  
  <br>
-  <p align="center"> 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞: </p>
+  <p align="center"> me encontre: </p>
 </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/LafaDev/">
@@ -71,7 +71,7 @@
  
   <h3>
    <img src="https://raw.githubusercontent.com/EliverLara/candy-icons/45719cdda06f1e400b678580f868ebc56c232160/preferences/scalable/preferences-desktop-default-applications.svg" width="25" />
-  𝐦𝐲 𝐭𝐨𝐨𝐥𝐬
+  Ferramentas
   </h3>
 <p>
  
