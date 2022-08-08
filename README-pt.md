@@ -22,7 +22,7 @@
  
  <table align="right">
  <tr><td><a href="https://github.com/LafaDev/LafaDev/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/LafaDev/LafaDev/blob/main/README-pt.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/LafaDev/LafaDev/blob/main/README.md">:brazil: Português</a></td></tr>
 </table>
  
  <h1 align="center">
