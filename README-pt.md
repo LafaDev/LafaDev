@@ -32,9 +32,8 @@
 
 <p>
 :wave: Bem vindo! <br>
- Meu nome é Lucas, atualmente estudo na Trybe,
- onde obtive a experiência de trabalhar <br> com diversas pessoas em variados projetos e desenvolvi diferentes habilidades.
- <br> Estou sempre aprendendo coisas novas.
+ Meu nome é Lucas, atualmente estudante na Trybe.
+ <br> Amo musica, ler, e estou sempre aprendendo coisas novas.
  <br>Entusiasta de computação, Linux e projetos open-source.
 <p/>
 <hr>
@@ -107,7 +106,7 @@
  
 <h3> 
  🐧
-𝐋𝐢𝐧𝐮𝐱 𝐃𝐢𝐬𝐭𝐫𝐨𝐬
+𝐃𝐢𝐬𝐭𝐫𝐨𝐬 𝐋𝐢𝐧𝐮𝐱
  
  <h3>
  <p>
