@@ -32,7 +32,7 @@
 
 <p>
 :wave: Welcome to my profile! <br>
-My name is Lucas, Full-Stack developer from :brazil: Brazil. <br>
+My name is Lucas, I'm a Full-Stack developer from :brazil: Brazil. <br>
 At the moment, i study at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>,
 a programming school where <br> i got the experience of working with different people on many projects. <br> 
 I love reading, gaming and i'm always learning new things.
