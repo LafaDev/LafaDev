@@ -31,12 +31,29 @@
 </h1>
 
 <p>
-:wave: Welcome to my profile! <br>
-My name is Lucas, I'm a Full-Stack developer from :brazil: Brazil. <br>
+
+<div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="350px"/>
+</div>
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>:wave: Welcome to my profile!
+
+<div align="justify">
+<p>
+My name is Lucas, I'm a Full-Stack developer from :brazil: Brazil. <br> <br>
 At the moment, i study at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>,
 a programming school where <br> i got the experience of working with different people on many projects. <br> 
 I love reading, gaming and i'm always learning new things.
 <br> <br> i use arch btw
+- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuo como Tech Lead de Currículo.<br />
+
+</p>
+</div>
+</div>
+
+<br> <br> <br> <br> <br>
+
 <p/>
 <hr>
 <img src="https://user-images.githubusercontent.com/90883406/151866489-5fca195b-c8bd-4e65-affc-d646a77768fe.gif" width="250" align="right" />
