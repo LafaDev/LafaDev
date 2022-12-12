@@ -31,7 +31,7 @@
 </h1>
 
 <p>
-:wave: Bem vindo! <br>
+:wave: Bem-vindo! <br>
  Meu nome é Lucas, atualmente estudante na Trybe.
  <br> Amo musica, ler, e estou sempre aprendendo coisas novas.
  <br>Entusiasta de computação, Linux e projetos open-source.
