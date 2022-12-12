@@ -43,7 +43,7 @@
 <p>
 My name is Lucas, I'm a Full-Stack developer from :brazil: Brazil. <br> <br>
 At the moment, i study at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>,
-a programming school where <br> i got the experience of working with different people on many projects. <br> 
+a programming school where <br> i got the experience of working with different people on <br> many projects. <br> 
 I love reading, gaming and i'm always learning new things.
 <br> <br> <br> <br> <br> <br> <br> <br> <br> i use arch btw
 
