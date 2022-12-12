@@ -26,7 +26,7 @@
 </table>
  
  <h1 align="center">
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" /> 
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" /> 
  𝔞𝔟𝔬𝔲𝔱 𝔪𝔢:
 </h1>
 
