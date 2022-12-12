@@ -1,9 +1,9 @@
 <div align="center">
  <a href="https://github.com/LafaDev#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FE428E&size=30&center=true&vCenter=true&width=450&lines=Bem+vindo!;Eu+sou+Lucas+Flores+(%2FLafaDev);Estudante+na+Trybe;Desenvolvedor+Full-Stack;" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FE428E&size=30&center=true&vCenter=true&width=450&lines=Bem-vindo!;Eu+sou+Lucas+Flores+(%2FLafaDev);Estudante+na+Trybe;Desenvolvedor+Full-Stack;" alt="">
   </a>
  <a href="https://github.com/LafaDev#gh-light-mode-only">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237AA2F7&size=30&center=true&vCenter=true&width=450&lines=Bem+vindo!;Eu+sou+Lucas+Flores+(%2FLafaDev);Estudante+na+Trybe;Desenvolvedor+Web+Full-Stack;" alt="">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237AA2F7&size=30&center=true&vCenter=true&width=450&lines=Bem-vindo!;Eu+sou+Lucas+Flores+(%2FLafaDev);Estudante+na+Trybe;Desenvolvedor+Web+Full-Stack;" alt="">
 </a>
  </div>
  
