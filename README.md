@@ -63,11 +63,11 @@ and i use arch btw ;)
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/LafaDev/my-chef#gh-dark-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=my-chef&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/LafaDev/lafatunes#gh-dark-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=lafatunes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/LafaDev/my-chef#gh-dark-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=my-chef&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/LafaDev/lafatunes#gh-dark-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=lafatunes&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
    
-   <a href="https://github.com/LafaDev/my-chef#gh-light-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=my-chef&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/LafaDev/lafatunes#gh-light-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=lafatunes&theme=react&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+   <a href="https://github.com/LafaDev/my-chef#gh-light-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=my-chef&theme=default&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/LafaDev/lafatunes#gh-light-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=lafatunes&theme=default&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 
   <a href="https://github.com/LafaDev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
