@@ -72,7 +72,7 @@ and i use arch btw ;)
 
   <a href="https://github.com/LafaDev?tab=repositories&sort=stargazers#gh-dark-mode-only"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
  
- <a href="https://github.com/LafaDev?tab=repositories&sort=stargazers#gh-light-mode-only"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFFFFF?style=for-the-badge&theme=default&logoColor=black&logo=repo&hide_border=false"/></a>
+ <a href="https://github.com/LafaDev?tab=repositories&sort=stargazers#gh-light-mode-only"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFFFFF?style=for-the-badge&hide_border=false&logoColor=black&logo=repo"/></a>
  
 </details>
 
