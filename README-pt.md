@@ -31,7 +31,16 @@
 </h1>
 
 <p>
-:wave: Bem-vindo! <br>
+ 
+ <div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="350px"/>
+</div>
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Bem-vindo!
+
+<div align="left">
+<p>
 Meu nome é Lucas, sou um desenvolvedor Full-Stack formado pela <a href="https://www.betrybe.com/" target="_bank">Trybe</a>, uma escola de programação que me deu a oportunidade de trabalhar com equipes diversas em vários projetos.
 <br> <br>
 Como desenvolvedor, busco constantemente aprimorar minhas habilidades e conhecimentos, mantendo-me atualizado sobre as tendências e inovações na área da tecnologia.
@@ -39,6 +48,9 @@ Como desenvolvedor, busco constantemente aprimorar minhas habilidades e conhecim
 Quando não estou codando, costumo ler, jogar e estou sempre aprendendo coisas novas.
 <br> <br>
  Valorizo a troca de conhecimento com outras pessoas programadoras e entusiastas do mundo da tecnologia, então sinta-se à vontade para entrar em contato comigo no <a href="https://www.linkedin.com/in/LafaDev/" target="_bank">LinkedIn</a> ou aqui no meu perfil do Github :D
+</p>
+</div>
+</div>
 </p>
 <hr>
 
