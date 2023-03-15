@@ -45,7 +45,7 @@ My name is Lucas, I'm a Full-Stack developer from :brazil: Brazil.
 <br>
 I'm currently studying at <a href="https://www.betrybe.com/" target="_bank">Trybe</a>, a programming school that has given me the opportunity to work with diverse teams on various projects
 <br> <br>
-As a developer, I'm passionate about continuously learning and expanding my skills. I enjoy checking on the latest technologies, and I'm always looking for ways to grow in my field.
+As a developer, I'm passionate about continuously learning and improving my skills. I enjoy checking on the latest technologies, and I'm always looking for ways to grow in my field.
 <br> 
 When I'm not coding, I love playing games or reading, while drinking coffe and listening to music.
 <br> <br>
