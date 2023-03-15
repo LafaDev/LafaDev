@@ -32,10 +32,33 @@
 
 <p>
 :wave: Bem-vindo! <br>
- Meu nome é Lucas, atualmente estudante na Trybe.
- <br> Amo musica, ler, e estou sempre aprendendo coisas novas.
- <br>Entusiasta de computação, Linux e projetos open-source.
-<p/>
+Meu nome é Lucas, sou um desenvolvedor Full-Stack formado pela <a href="https://www.betrybe.com/" target="_bank">Trybe</a>, uma escola de programação que me deu a oportunidade de trabalhar com equipes diversas em vários projetos.
+<br> <br>
+Como desenvolvedor, busco constantemente aprimorar minhas habilidades e conhecimentos, mantendo-me atualizado sobre as tendências e inovações na área da tecnologia.
+<br> <br>
+Quando não estou codando, costumo ler, jogar e estou sempre aprendendo coisas novas.
+<br> <br>
+ Valorizo a troca de conhecimento com outras pessoas programadoras e entusiastas do mundo da tecnologia, então sinta-se à vontade para entrar em contato comigo no <a href="https://www.linkedin.com/in/LafaDev/" target="_bank">LinkedIn</a> ou aqui no meu perfil do Github :D
+</p>
+<hr>
+
+<details open> 
+  <summary><h2>📘 Meus projetos</h2></summary>
+  <p align="left">
+    <a href="https://github.com/LafaDev/my-chef#gh-dark-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=my-chef&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/LafaDev/lafatunes#gh-dark-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=lafatunes&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+   
+   <a href="https://github.com/LafaDev/my-chef#gh-light-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=my-chef&theme=default&hide_border=false&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/LafaDev/lafatunes#gh-light-mode-only"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LafaDev&repo=lafatunes&theme=default&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
+  </p>
+
+  <a href="https://github.com/LafaDev?tab=repositories&sort=stargazers#gh-dark-mode-only"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Todos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+ 
+ <a href="https://github.com/LafaDev?tab=repositories&sort=stargazers#gh-light-mode-only"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20para%20ver%20todos-ADD8E6?style=for-the-badge&logoColor=black&logo=repo"/></a>
+ 
+</details>
+
+
 <hr>
 <img src="https://user-images.githubusercontent.com/90883406/151866489-5fca195b-c8bd-4e65-affc-d646a77768fe.gif" width="250" align="right" />
 <h3>
