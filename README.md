@@ -47,7 +47,7 @@ I'm certified at <a href="https://www.betrybe.com/" target="_bank">Trybe</a>, a 
 <br> <br>
 As a developer, I'm passionate about continuously learning and improving my skills. I enjoy checking on the latest technologies, and I'm always looking for ways to grow in my field.
 <br> 
-When I'm not coding, I love playing games or reading, while drinking coffe and listening to music.
+When I'm not coding, you can find me playing games or reading while drinking coffee and listening to music.
 <br> <br>
 I love to connect with other developers and tech enthusiasts, so feel free to reach me out on <a href="https://www.linkedin.com/in/LafaDev/" target="_bank" >LinkedIn<a/> or here on my Github profile.
 <br> <br> 
