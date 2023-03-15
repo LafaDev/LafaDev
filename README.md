@@ -49,7 +49,7 @@ As a developer, I'm passionate about continuously learning and improving my skil
 <br> 
 When I'm not coding, I love playing games or reading, while drinking coffe and listening to music.
 <br> <br>
-I love to connect with other developers and tech enthusiasts, so feel free to reach me out on LinkedIn or here on my Github profile.
+I love to connect with other developers and tech enthusiasts, so feel free to reach me out on <a href="https://www.linkedin.com/in/LafaDev/" target="_bank" >LinkedIn<a/> or here on my Github profile.
 <br> <br> 
 I'm always open to new opportunities and collaborations, let's build something amazing together!
 
