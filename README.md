@@ -39,13 +39,19 @@
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Welcome to my profile!
 
-<div align="justify">
+<div align="left">
 <p>
-My name is Lucas, I'm a Full-Stack developer from :brazil: Brazil. <br> <br>
-At the moment, i study at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>,
-a programming school where <br> i got the experience of working with different people on <br> many projects. <br> 
-I love reading, gaming and i'm always learning new things.
-<br> <br> <br> <br> <br> <br> <br> <br> <br> i use arch btw
+My name is Lucas, I'm a Full-Stack developer from :brazil: Brazil.
+<br>
+I'm currently studying at <a href="https://www.betrybe.com/" target="_bank">Trybe</a>, a programming school that has given me the opportunity to work with diverse teams on various projects
+<br> <br>
+As a developer, I'm passionate about continuously learning and expanding my skills. I enjoy checking on the latest technologies, and I'm always looking for ways to grow in my field. When I'm not coding, I love playing games or reading, while drinking coffe and listening to music.
+<br> <br>
+I love to connect with other developers and tech enthusiasts, so feel free to reach me out on LinkedIn or here on my Github profile.
+<br> <br> 
+I'm always open to new opportunities and collaborations, let's build something amazing together!
+
+and i use arch btw ;)
 
 </p>
 </div>
